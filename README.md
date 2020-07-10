@@ -3,7 +3,7 @@ The repo of the ECCV 2020 paper: Progressively Guided Alternate Refinement Netwo
 
 Network overview
 ---
-
+![image](https://github.com/ShuhanChen/PGAR_ECCV20/blob/master/Figures/arch.png)
 
 Training
 ---
