@@ -1,5 +1,5 @@
 # PGAR
-The repo of the ECCV 2020 paper: Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection.
+The repo of the ECCV 2020 paper: [Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection](https://arxiv.org/abs/2008.07064).
 
 Network overview
 ---
