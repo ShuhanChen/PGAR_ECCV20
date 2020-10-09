@@ -8,9 +8,9 @@ Network overview
 
 Usage
 ---
-Depth format: nearer pixels appear brighter and vice versa. Download our pre-trained model and put it into ``$models/``. Then, run
+Depth format: nearer pixels appear brighter and vice versa. Download our pre-trained model [Baidu](https://pan.baidu.com/s/1_B16Dzn1scOQIO9OQtiKew)(9rr7) and [Google](https://drive.google.com/file/d/1iyYRBnr2r1QHK88KwUhkNpGqplVHD44w/view?usp=sharing) and put it into ``$models/``. Then, run
 ```
-Testing:  python3 test.py
+python3 test.py
 ```
 
 Pre-computed saliency maps
