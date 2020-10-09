@@ -5,13 +5,13 @@ Network overview
 ---
 ![image](https://github.com/ShuhanChen/PGAR_ECCV20/blob/master/Figures/arch.png)
 
-Training
----
-Will update soon.
 
-Testing
+Usage
 ---
-Will update soon.
+Depth format: nearer pixels appear brighter and vice versa. Download our pre-trained model and put it into ``$models/``. Then, run
+```
+Testing:  python3 test.py
+```
 
 Pre-computed saliency maps
 ---
